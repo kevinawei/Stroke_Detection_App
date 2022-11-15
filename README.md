@@ -15,11 +15,10 @@ This application should be run on a physical Android device.
 
 
 
-![App example showing UI controls. Highlights a cat, a book, and a couch.](screenshot1.png)
 
-![App example showing UI controls. Highlights a cat, a book, and a couch.](screenshot2.png)
-
-![App example showing UI controls. Highlights a cat, a book, and a couch.](screenshot3.png)
+<img src="screenshot1.png" alt="drawing" width="200"/>
+<img src="screenshot2.png" alt="drawing" width="200"/>
+<img src="screenshot3.png" alt="drawing" width="200"/>
 
 ## Build the demo using Android Studio
 
