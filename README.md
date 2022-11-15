@@ -6,7 +6,7 @@ This is a camera app that detects visual stroke symptoms in patients of 3 classe
 1. StrokeEyes
 2. StrokeMouth
 3. StrokeJaw
-model trained on the [Stroke Faces Dataset](kaggle.com/datasets/kaitavmehta/facial-droop-and-facial-paralysis-image). .
+model trained on the [Stroke Faces Dataset](https://kaggle.com/datasets/kaitavmehta/facial-droop-and-facial-paralysis-image). .
 
 
 This application should be run on a physical Android device.
