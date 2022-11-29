@@ -1,4 +1,4 @@
-# TensorFlow Lite Object Detection Android Demo
+# TensorFlow Stroke Detection App 
 
 ### Overview
 
