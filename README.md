@@ -16,9 +16,9 @@ This application should be run on a physical Android device.
 
 
 
-<img src="screenshot1.png" alt="drawing" align="center" width="400" />
-<img src="screenshot2.png" alt="drawing" align="center" width="400"/>
-<img src="screenshot3.png" alt="drawing" align="center" width="400"/>
+<img src="/screenshots/screenshot1.png" alt="drawing" align="center" width="400" />
+<img src="/screenshots/screenshot2.png" alt="drawing" align="center" width="400"/>
+<img src="/screenshots/screenshot3.png" alt="drawing" align="center" width="400"/>
 
 ## Build the demo using Android Studio
 
