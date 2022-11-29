@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\tflite_detect\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ko\\values-ko.xml",
+            "outputFile": "C:\\Users\\Kevin\\Desktop\\Stroke_Detect_App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ko\\values-ko.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-3\\f87c3928917e6d26bb4e6cd0ddccd36a\\transformed\\navigation-ui-2.3.5\\res\\values-ko\\values-ko.xml",

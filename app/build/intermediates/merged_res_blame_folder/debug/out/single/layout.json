@@ -1,14 +1,14 @@
 [
     {
-        "merged": "D:\\tflite_detect\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "D:\\tflite_detect\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Kevin\\Desktop\\Stroke_Detect_App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\info_bottom_sheet.xml",
+        "source": "C:\\Users\\Kevin\\Desktop\\Stroke_Detect_App\\app\\src\\main\\res\\layout\\info_bottom_sheet.xml"
     },
     {
-        "merged": "D:\\tflite_detect\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_camera.xml",
-        "source": "D:\\tflite_detect\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+        "merged": "C:\\Users\\Kevin\\Desktop\\Stroke_Detect_App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Kevin\\Desktop\\Stroke_Detect_App\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\tflite_detect\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\info_bottom_sheet.xml",
-        "source": "D:\\tflite_detect\\app\\src\\main\\res\\layout\\info_bottom_sheet.xml"
+        "merged": "C:\\Users\\Kevin\\Desktop\\Stroke_Detect_App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_camera.xml",
+        "source": "C:\\Users\\Kevin\\Desktop\\Stroke_Detect_App\\app\\src\\main\\res\\layout\\fragment_camera.xml"
     }
 ]
